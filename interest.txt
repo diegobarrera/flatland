@@ -1,0 +1,2 @@
+nombre|1000|1221|122|cine
+nombre2|192|1231|1992|entretenimiento
